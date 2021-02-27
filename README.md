@@ -1,9 +1,9 @@
 <h3 align="center">👋 Hola, Soy Joaquin 👨‍💻</h3>
-<p align="center">
+<h4 align="center">
   <span>
-    Desarrollador Front-End Junior
+    Desarrollador Front-End Jr
   </span>
-</p>
+</h4>
 
 ```js
 const joaco = {
@@ -14,5 +14,6 @@ const joaco = {
  challenge:,
 }
 ```
+<hr>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoacoBriz)](https://github.com/anuraghazra/github-readme-stats)
