@@ -1,4 +1,8 @@
-### Hola, Soy Joaquin 👋👨‍💻
+<h3 align="center">👋 Hola, Soy Joaquin 👨‍💻</h3>
+<p align="center">
+  <a href="https://joacobriz.github.io/portfolio/">Porfolio</a> •
+  <a href="https://twitter.com/lauragift_">Twitter</a>
+</p>
 
 ```js
 const joaco = {
