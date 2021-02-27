@@ -22,7 +22,7 @@ const joaco = {
 
 - 👨‍💻 Todos mis proyectos disponibles en [https://joacobriz.github.io/portfolio/](https://joacobriz.github.io/portfolio/)
 
-- 📫 How to reach me **joaquinbriz1@gmail.com**
+- 📫 Contáctame via email! **joaquinbriz1@gmail.com**
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
