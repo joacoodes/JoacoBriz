@@ -1,15 +1,14 @@
-### Hi, I'm Joquin 👋
+### Hola, Soy Joaquin 👋👨‍💻
 
 ```js
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Styled-Components],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on Javascri"
+const joaco = {
+  tecnologias: 'web',
+  pasiones: 'web development',
+  lenguajes: [Javascript, HTML, CSS],
+  herramientas: [React, Styled-Components],
+ challenge:,
 }
 ```
+Puedes encontrarme en🌎:
+-[Linkedin](https://www.linkedin.com/in/joaquin-brizuela/)
+-[Portfolio](https://joacobriz.github.io/portfolio/)
