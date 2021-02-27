@@ -1,20 +1,10 @@
-<h3 align="center">👋 Hola, Soy Joaquin 👨‍💻</h3>
-<h4 align="center">
+<h2 align="center">👋 Hola, Soy Joaquin 👨‍💻</h2>
+<h3 align="center">
   <span>
     Desarrollador Front-End Jr
   </span>
-</h4>
+</h3>
 
-```js
-const joaco = {
-  tecnologias: 'web',
-  pasiones: 'web development',
-  lenguajes: [Javascript, HTML, CSS],
-  herramientas: [React, Styled-Components],
- challenge:,
-}
-```
-<hr>
 
 - 🔭 Actualmente estoy trabajando en un [Menu Interactivo](https://github.com/JoacoBriz/proyectoFinalJavascript)
 
