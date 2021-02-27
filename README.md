@@ -10,5 +10,5 @@ const joaco = {
 }
 ```
 Puedes encontrarme en🌎:
--[Linkedin](https://www.linkedin.com/in/joaquin-brizuela/)
--[Portfolio](https://joacobriz.github.io/portfolio/)
+- [Linkedin](https://www.linkedin.com/in/joaquin-brizuela/)
+- [Portfolio](https://joacobriz.github.io/portfolio/)
