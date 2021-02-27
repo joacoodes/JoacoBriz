@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hola, Soy Joaquin 👨‍💻</h2>
+<h1 align="center">👋 Hola, Soy Joaquin 👨‍💻</h1>
 <h3 align="center">
   <span>
     Desarrollador Front-End Jr
