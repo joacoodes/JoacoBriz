@@ -1,9 +1,9 @@
-<h1 align="center">👋 Hola, Soy Joaquin 👨‍💻</h1>
-<h3 align="center">
+<h2 align="center">👋 Hola, Soy Joaquin 👨‍💻</h2>
+<h4 align="center">
   <span>
     Desarrollador Front-End Jr
   </span>
-</h3>
+</h4>
 
 
 - 🔭 Actualmente estoy trabajando en un [Menu Interactivo](https://github.com/JoacoBriz/proyectoFinalJavascript)
