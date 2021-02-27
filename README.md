@@ -1,7 +1,8 @@
 <h3 align="center">👋 Hola, Soy Joaquin 👨‍💻</h3>
 <p align="center">
-  <a href="https://joacobriz.github.io/portfolio/">Porfolio</a> •
-  <a href="https://twitter.com/lauragift_">Twitter</a>
+  <span>
+    Desarrollador Front-End Junior
+  </span>
 </p>
 
 ```js
@@ -13,6 +14,5 @@ const joaco = {
  challenge:,
 }
 ```
-Puedes encontrarme en🌎:
-- [Linkedin](https://www.linkedin.com/in/joaquin-brizuela/)
-- [Portfolio](https://joacobriz.github.io/portfolio/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoacoBriz)](https://github.com/anuraghazra/github-readme-stats)
