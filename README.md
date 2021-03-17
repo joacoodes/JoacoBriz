@@ -2,10 +2,9 @@
 <h3 align="center">
   <span>
     Front-End developer Jr
-    Buenos Aires, Argentina
   </span>
 </h3>
-
+<p align="center">Buenos Aires, Argentina</p>
 
 - 🔭 Currently I working on a To-Do App 
 
