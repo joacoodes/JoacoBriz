@@ -4,11 +4,11 @@
     Front-End developer Jr
   </span>
 </h3>
-<p align="center">Buenos Aires, Argentina</p>
+<p align="center">Buenos Aires, Argentina </p>
 
-- 🔭 Currently I working on a To-Do App 
+- 🔭 Currently I working on a e-commerce with React 
 
-- 🌱 Currently I learning **Javascript y React**
+- 🌱 Currently I learning **React**
 
 - 👨‍💻 All proyects available in my portfolio [https://joacobriz.github.io/portfolio/](https://joacobriz.github.io/portfolio/)
 
