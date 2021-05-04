@@ -4,7 +4,7 @@
     Front-End developer Jr
   </span>
 </h3>
-<p align="center">Buenos Aires, Argentina </p>
+<p align="center">Buenos Aires, Argentina 📍</p>
 
 - 🔭 Currently I working on a e-commerce with React 
 
