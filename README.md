@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hi, I'm Joaquin 👨‍💻</h1>
 <h3 align="center">
   <span>
-    Front-End developer Jr
+    Full-Stack developer Jr
   </span>
 </h3>
 <p align="center">Buenos Aires, Argentina 📍</p>
 
-- 🌱 Currently I learning **React**
+- 🌱 Currently I work with **Vtex** creating e-commerce
 
 - 👨‍💻 All proyects available in my portfolio [https://joacobriz.github.io/portfolio/](https://joacobriz.github.io/portfolio/)
 
@@ -18,7 +18,7 @@
 <h3 align="center">My social Media:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/joaquinbrizuela" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"       alt="joaquinbrizuela" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/joacodev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="joacobriz" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/joacobriz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="joacobriz" height="30" width="40" /></a>
 </p>
 <hr>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=joacobriz&show_icons=true&locale=en&layout=compact" alt="joacobriz" /></p>
