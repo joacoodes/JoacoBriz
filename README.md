@@ -1,7 +1,7 @@
 <h2 align="left">Hi there! 👋</h2>
 <span align="left">I'm a Full Stack Developer working in Buenos Aires, Argentina 📍</span>
 <hr>
-<span align="left" >NOW</span>
+<span style="font-weight: bold;" align="left" >NOW</span>
 - Working in my new portfolio website 👀
 - Learning English
 - Expanding my knowledge with react
