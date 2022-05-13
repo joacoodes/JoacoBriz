@@ -3,12 +3,12 @@
 <br>
 <h5>NOW</h5>
 <li>Working in my new portfolio website 👀</li>
-- <p>Learning English</p>
-- <p>Expanding my knowledge with react</p>
+- <li>Learning English</li>
+- <li>Expanding my knowledge with react</li>
 <br>
-<h5 >BIO</h5>
-- <p>🏢 I'm currently working at <a href="www.linkedin.com/company/pow-lat">Pow</a></p>
-- <p>🌱 I am interested in everything that has to do with front end development</p>
+<h5>BIO</h5>
+- <li>🏢 I'm currently working at <a href="www.linkedin.com/company/pow-lat">Pow</a></li>
+- <li>🌱 I am interested in everything that has to do with front end development</li>
 <br>
 <hr>
 - 📫 Contact me on **joaquinbriz1@gmail.com**
