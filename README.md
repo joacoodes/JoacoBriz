@@ -1,8 +1,8 @@
 <h2 >Hi there! 👋</h2>
 <h5 >I'm a Full Stack Developer working in Buenos Aires, Argentina 📍</h5>
 <br>
-<h5 >NOW</h5>
-- <p>Working in my new portfolio website 👀</p>
+<h5>NOW</h5>
+<li>Working in my new portfolio website 👀</li>
 - <p>Learning English</p>
 - <p>Expanding my knowledge with react</p>
 <br>
