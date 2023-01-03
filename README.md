@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-#### I'm a Full Stack Developer working in Buenos Aires, Argentina. 📍
+#### I'm a Front End Developer working in Buenos Aires, Argentina. 📍
 
 ##### NOW
 
-- 👀 Working in my new portfolio website
+- 👀 Taking the first steps in freelance
 - 🇺🇸 Learning English
 
 ##### BIO
 
-- 🏢 I'm currently working at **[Pow](www.linkedin.com/company/pow-lat)**
+- 🏢 I'm currently working at **[Known Online](https://knownonline.com/)**
 - ⚙️ I use daily: `.json`, `.css`, `.svg`, `.tsx`, `.gql`
 - 🧑🏻‍💻 In my job I specialize in ecommerce development with **Vtex IO** implementing **custom components** with React and Typescript
 - 🌱 I am interested in everything that has to do with **front end development**
